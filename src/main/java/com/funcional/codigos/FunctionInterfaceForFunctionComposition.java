@@ -2,6 +2,7 @@ package com.funcional.codigos;
 
 import java.util.function.Function;
 
+
 public class FunctionInterfaceForFunctionComposition {
 
     void funcitonComposition(){

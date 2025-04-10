@@ -1,5 +1,9 @@
 package com.funcional.codigos;
 
+/**
+ * @author pcgomes
+ */
+
 public class CreatingFunctionalInteface {
 
     @FunctionalInterface

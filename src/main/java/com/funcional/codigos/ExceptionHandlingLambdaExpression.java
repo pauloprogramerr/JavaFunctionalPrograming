@@ -3,6 +3,10 @@ package com.funcional.codigos;
 
 import java.util.IllegalFormatException;
 
+/**
+ * @author pcgomes
+ */
+
 public class ExceptionHandlingLambdaExpression {
 
     public interface Integerconcatenation {

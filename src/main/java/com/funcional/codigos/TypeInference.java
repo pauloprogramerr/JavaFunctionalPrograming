@@ -17,7 +17,7 @@ public class TypeInference { //pag 66
                 s + ":" + t;
 
         System.out.println(
-                stringConcatenation.concatenate("Car", "Dog"));
+                stringConcatenation.concatenate("Car ", "Dog"));
         System.out.println(integerConcatenation.concatenate(23, 45));
         System.out.println(doubleConcatenation.concatenate(23.0, 45.0));
     }

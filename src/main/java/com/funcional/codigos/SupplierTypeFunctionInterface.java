@@ -8,7 +8,7 @@ public class SupplierTypeFunctionInterface {
     /**
      Supplier interface to generate a random number between 0 and 9
      excluding the numbers, 5, 6, 7, and 8
-     pag 72
+     pag 72 - 80
      */
     public void generateRandomNumber() {
         Supplier<Integer> randonIntegers = () -> {

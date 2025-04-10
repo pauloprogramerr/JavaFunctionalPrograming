@@ -2,6 +2,10 @@ package com.funcional.codigos;
 
 import java.util.function.Function;
 
+/**
+ * @author pcgomes
+ */
+
 public class Compose {
     public interface CompositionFunction<T, R> {
          R call(T x);
